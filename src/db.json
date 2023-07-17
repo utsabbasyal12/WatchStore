@@ -1,0 +1,13 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "name": "Bolano Wrist Watch For Men, Silver With Tachymeter",
+      "description": "",
+      "sku": "BSCR-03",
+      "photo": "/assets/watch1.jpg",
+      "availableUnits": 4,
+      "category": "Mens"
+    }
+  ]
+}
