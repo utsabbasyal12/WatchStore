@@ -15,7 +15,7 @@ import { RouterLink, RouterOutlet } from '@angular/router';
         alt="{{ watchstore.name }}"
       />
       <h2 class="listing-heading">{{ watchstore.name }}</h2>
-      <a [routerLink]="['/watchDetails', watchstore.id]">View Product</a>
+      <a [routerLink]="['/watchdetails', watchstore.id]">View Product</a>
     </section>
   `,
   styleUrls: ['./watchstore.component.css'],
